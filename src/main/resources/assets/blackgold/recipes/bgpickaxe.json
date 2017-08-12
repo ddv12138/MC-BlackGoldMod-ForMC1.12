@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "blackgold:bgingot"
+    }
+  },
+  "result": {
+    "item": "blackgold:bgpickaxe"
+  }
+}
