@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blackgold:blocks/blackgold-block"
+    }
+}

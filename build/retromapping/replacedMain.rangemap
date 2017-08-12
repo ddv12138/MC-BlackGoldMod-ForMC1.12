@@ -1,0 +1,325 @@
+Symbol range map extraction starting
+Processing 9 files
+startProcessing "ddv12138\BlackGold\BlackGold.java" md5: f3bb8b12c8ab4dcdfdbaed8e5f85970b
+@|ddv12138\BlackGold\BlackGold.java|8|26|ddv12138.BlackGold|package|ddv12138.BlackGold|(file)
+Class Start: ddv12138.BlackGold.BlackGold
+   @|ddv12138\BlackGold\BlackGold.java|411|414|Mod|class|net.minecraftforge.fml.common.Mod
+   @|ddv12138\BlackGold\BlackGold.java|415|420|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|ddv12138\BlackGold\BlackGold.java|423|432|BlackGold|class|ddv12138.BlackGold.BlackGold
+   @|ddv12138\BlackGold\BlackGold.java|433|438|MODID|field|ddv12138.BlackGold.BlackGold|MODID
+   @|ddv12138\BlackGold\BlackGold.java|440|444|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|ddv12138\BlackGold\BlackGold.java|445|454|BlackGold|class|ddv12138.BlackGold.BlackGold
+   @|ddv12138\BlackGold\BlackGold.java|455|459|NAME|field|ddv12138.BlackGold.BlackGold|NAME
+   @|ddv12138\BlackGold\BlackGold.java|461|468|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|ddv12138\BlackGold\BlackGold.java|469|478|BlackGold|class|ddv12138.BlackGold.BlackGold
+   @|ddv12138\BlackGold\BlackGold.java|479|486|VERSION|field|ddv12138.BlackGold.BlackGold|VERSION
+   @|ddv12138\BlackGold\BlackGold.java|501|510|BlackGold|class|ddv12138.BlackGold.BlackGold
+   @|ddv12138\BlackGold\BlackGold.java|534|540|String|class|java.lang.String
+   @|ddv12138\BlackGold\BlackGold.java|534|540|String|class|java.lang.String
+   @|ddv12138\BlackGold\BlackGold.java|541|546|MODID|field|ddv12138.BlackGold.BlackGold|MODID|
+   @|ddv12138\BlackGold\BlackGold.java|586|592|String|class|java.lang.String
+   @|ddv12138\BlackGold\BlackGold.java|586|592|String|class|java.lang.String
+   @|ddv12138\BlackGold\BlackGold.java|593|597|NAME|field|ddv12138.BlackGold.BlackGold|NAME|
+   @|ddv12138\BlackGold\BlackGold.java|637|643|String|class|java.lang.String
+   @|ddv12138\BlackGold\BlackGold.java|637|643|String|class|java.lang.String
+   @|ddv12138\BlackGold\BlackGold.java|644|651|VERSION|field|ddv12138.BlackGold.BlackGold|VERSION|
+   @|ddv12138\BlackGold\BlackGold.java|808|819|CommonProxy|class|ddv12138.BlackGold.common.CommonProxy
+   @|ddv12138\BlackGold\BlackGold.java|671|681|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|ddv12138\BlackGold\BlackGold.java|682|692|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|ddv12138\BlackGold\BlackGold.java|736|746|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|ddv12138\BlackGold\BlackGold.java|808|819|CommonProxy|class|ddv12138.BlackGold.common.CommonProxy
+   @|ddv12138\BlackGold\BlackGold.java|820|825|proxy|field|ddv12138.BlackGold.BlackGold|proxy|
+   @|ddv12138\BlackGold\BlackGold.java|871|880|BlackGold|class|ddv12138.BlackGold.BlackGold
+   @|ddv12138\BlackGold\BlackGold.java|837|845|Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|ddv12138\BlackGold\BlackGold.java|846|851|MODID|field|ddv12138.BlackGold.BlackGold|MODID
+   @|ddv12138\BlackGold\BlackGold.java|871|880|BlackGold|class|ddv12138.BlackGold.BlackGold
+   @|ddv12138\BlackGold\BlackGold.java|881|889|instance|field|ddv12138.BlackGold.BlackGold|instance|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\BlackGold.java|964|969|event|param|ddv12138.BlackGold.BlackGold|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\BlackGold.java|901|913|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|ddv12138\BlackGold\BlackGold.java|930|937|preInit|method|ddv12138.BlackGold.BlackGold|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\BlackGold.java|938|963|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|ddv12138\BlackGold\BlackGold.java|977|982|proxy|field|ddv12138.BlackGold.BlackGold|proxy
+      @|ddv12138\BlackGold\BlackGold.java|983|990|preInit|method|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\BlackGold.java|991|996|event|param|ddv12138.BlackGold.BlackGold|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\BlackGold.java|1068|1073|event|param|ddv12138.BlackGold.BlackGold|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\BlackGold.java|1011|1023|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|ddv12138\BlackGold\BlackGold.java|1040|1044|init|method|ddv12138.BlackGold.BlackGold|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\BlackGold.java|1045|1067|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|ddv12138\BlackGold\BlackGold.java|1081|1086|proxy|field|ddv12138.BlackGold.BlackGold|proxy
+      @|ddv12138\BlackGold\BlackGold.java|1087|1091|init|method|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\BlackGold.java|1092|1097|event|param|ddv12138.BlackGold.BlackGold|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : ddv12138.BlackGold.BlackGold
+endProcessing "ddv12138\BlackGold\BlackGold.java"
+
+startProcessing "ddv12138\BlackGold\client\ClientProxy.java" md5: b6bddbf5ce2f29a527544f7c6c77d38c
+@|ddv12138\BlackGold\client\ClientProxy.java|8|33|ddv12138.BlackGold.client|package|ddv12138.BlackGold.client|(file)
+Class Start: ddv12138.BlackGold.client.ClientProxy
+   @|ddv12138\BlackGold\client\ClientProxy.java|398|409|ClientProxy|class|ddv12138.BlackGold.client.ClientProxy
+   @|ddv12138\BlackGold\client\ClientProxy.java|418|429|CommonProxy|class|ddv12138.BlackGold.common.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\client\ClientProxy.java|478|483|event|param|ddv12138.BlackGold.client.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\client\ClientProxy.java|444|451|preInit|method|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\client\ClientProxy.java|452|477|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|ddv12138\BlackGold\client\ClientProxy.java|505|512|preInit|method|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\client\ClientProxy.java|513|518|event|param|ddv12138.BlackGold.client.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\client\ClientProxy.java|529|539|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
+      @|ddv12138\BlackGold\client\ClientProxy.java|540|550|clientInit|method|ddv12138.BlackGold.common.item.Itemloader|clientInit|()V
+      @|ddv12138\BlackGold\client\ClientProxy.java|562|573|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
+      @|ddv12138\BlackGold\client\ClientProxy.java|574|584|clientInit|method|ddv12138.BlackGold.common.block.BlockLoader|clientInit|()V
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\client\ClientProxy.java|639|644|event|param|ddv12138.BlackGold.client.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\client\ClientProxy.java|611|615|init|method|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\client\ClientProxy.java|616|638|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|ddv12138\BlackGold\client\ClientProxy.java|666|670|init|method|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\client\ClientProxy.java|671|676|event|param|ddv12138.BlackGold.client.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\client\ClientProxy.java|687|705|OreGenEventHandler|class|ddv12138.BlackGold.common.world.gen.OreGenEventHandler
+      @|ddv12138\BlackGold\client\ClientProxy.java|706|710|init|method|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|init|()V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : ddv12138.BlackGold.client.ClientProxy
+endProcessing "ddv12138\BlackGold\client\ClientProxy.java"
+
+startProcessing "ddv12138\BlackGold\common\CommonProxy.java" md5: d0516330feaec0e91f61369bad308acb
+@|ddv12138\BlackGold\common\CommonProxy.java|8|33|ddv12138.BlackGold.common|package|ddv12138.BlackGold.common|(file)
+Class Start: ddv12138.BlackGold.common.CommonProxy
+   @|ddv12138\BlackGold\common\CommonProxy.java|289|300|CommonProxy|class|ddv12138.BlackGold.common.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\common\CommonProxy.java|350|355|event|param|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\common\CommonProxy.java|316|323|preInit|method|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\common\CommonProxy.java|324|349|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|ddv12138\BlackGold\common\CommonProxy.java|361|371|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
+      @|ddv12138\BlackGold\common\CommonProxy.java|372|376|init|method|ddv12138.BlackGold.common.item.Itemloader|init|()V
+      @|ddv12138\BlackGold\common\CommonProxy.java|382|393|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
+      @|ddv12138\BlackGold\common\CommonProxy.java|394|398|init|method|ddv12138.BlackGold.common.block.BlockLoader|init|()V
+      @|ddv12138\BlackGold\common\CommonProxy.java|404|414|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
+      @|ddv12138\BlackGold\common\CommonProxy.java|415|426|addSmelting|method|ddv12138.BlackGold.common.item.Itemloader|addSmelting|()V
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\common\CommonProxy.java|481|486|event|param|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\common\CommonProxy.java|453|457|init|method|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\common\CommonProxy.java|458|480|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : ddv12138.BlackGold.common.CommonProxy
+endProcessing "ddv12138\BlackGold\common\CommonProxy.java"
+
+startProcessing "ddv12138\BlackGold\common\block\BlockLoader.java" md5: 04b49f063680b4b0af05a1020b2f9f60
+@|ddv12138\BlackGold\common\block\BlockLoader.java|8|39|ddv12138.BlackGold.common.block|package|ddv12138.BlackGold.common.block|(file)
+Class Start: ddv12138.BlackGold.common.block.BlockLoader
+   @|ddv12138\BlackGold\common\block\BlockLoader.java|444|455|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
+   @|ddv12138\BlackGold\common\block\BlockLoader.java|473|478|Block|class|net.minecraft.block.Block
+   @|ddv12138\BlackGold\common\block\BlockLoader.java|473|478|Block|class|net.minecraft.block.Block
+   @|ddv12138\BlackGold\common\block\BlockLoader.java|479|486|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg|
+   @|ddv12138\BlackGold\common\block\BlockLoader.java|493|508|Block_BlackGold|class|ddv12138.BlackGold.common.block.Block_BlackGold
+   @|ddv12138\BlackGold\common\block\BlockLoader.java|511|529|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+   Method Start: init()V
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|562|566|init|method|ddv12138.BlackGold.common.block.BlockLoader|init|()V
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|573|588|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|589|595|BLOCKS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|BLOCKS
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|596|604|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|605|612|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|613|628|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|644|659|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|660|665|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|666|674|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|679|688|ItemBlock|class|net.minecraft.item.ItemBlock
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|689|696|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|698|713|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|714|721|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|722|737|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: init()V
+   Method Start: clientInit()V
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|748|756|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|757|761|Side|class|net.minecraftforge.fml.relauncher.Side
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|762|768|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|790|800|clientInit|method|ddv12138.BlackGold.common.block.BlockLoader|clientInit|()V
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|807|818|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|819|849|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|850|854|Item|class|net.minecraft.item.Item
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|855|871|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|872|879|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|889|910|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|911|918|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
+      @|ddv12138\BlackGold\common\block\BlockLoader.java|919|934|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: clientInit()V
+Class End  : ddv12138.BlackGold.common.block.BlockLoader
+endProcessing "ddv12138\BlackGold\common\block\BlockLoader.java"
+
+startProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java" md5: d454f6d475b1e0eea750c22d1de9d9c8
+@|ddv12138\BlackGold\common\block\Block_BlackGold.java|8|39|ddv12138.BlackGold.common.block|package|ddv12138.BlackGold.common.block|(file)
+Class Start: ddv12138.BlackGold.common.block.Block_BlackGold
+   @|ddv12138\BlackGold\common\block\Block_BlackGold.java|136|151|Block_BlackGold|class|ddv12138.BlackGold.common.block.Block_BlackGold
+   @|ddv12138\BlackGold\common\block\Block_BlackGold.java|160|165|Block|class|net.minecraft.block.Block
+   Method Start: Block_BlackGold()V
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|176|191|Block_BlackGold|method|ddv12138.BlackGold.common.block.Block_BlackGold|Block_BlackGold|()V
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|231|239|Material|class|net.minecraft.block.material.Material
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|240|244|ROCK|field|net.minecraft.block.material.Material|ROCK
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|254|266|setSoundType|method|net.minecraft.block.Block|setSoundType|(Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|267|281|blockSoundType|field|net.minecraft.block.Block|blockSoundType
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|282|287|STONE|field|net.minecraft.block.SoundType|STONE
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|297|308|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|324|339|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: Block_BlackGold()V
+Class End  : ddv12138.BlackGold.common.block.Block_BlackGold
+endProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java"
+
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java" md5: 22fc1f9ba98d54a1e63977a720fbea02
+@|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|8|38|ddv12138.BlackGold.common.item|package|ddv12138.BlackGold.common.item|(file)
+Class Start: ddv12138.BlackGold.common.item.Item_BlackGoldIngot
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|133|152|Item_BlackGoldIngot|class|ddv12138.BlackGold.common.item.Item_BlackGoldIngot
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|161|165|Item|class|net.minecraft.item.Item
+   Method Start: Item_BlackGoldIngot()V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|175|194|Item_BlackGoldIngot|method|ddv12138.BlackGold.common.item.Item_BlackGoldIngot|Item_BlackGoldIngot|()V
+   Method End: Item_BlackGoldIngot()V
+Class End  : ddv12138.BlackGold.common.item.Item_BlackGoldIngot
+endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java"
+
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java" md5: 613b9e715819d71f9872ddf11015cb6a
+@|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|8|38|ddv12138.BlackGold.common.item|package|ddv12138.BlackGold.common.item|(file)
+Class Start: ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|174|195|Item_BlackGoldPickAxe|class|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|204|212|ItemTool|class|net.minecraft.item.ItemTool
+   Method Start: Item_BlackGoldPickAxe()V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|226|247|Item_BlackGoldPickAxe|method|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe|Item_BlackGoldPickAxe|()V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|271|283|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|284|291|DIAMOND|field|net.minecraft.item.Item.ToolMaterial|DIAMOND
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|296|303|HashSet|class|java.util.HashSet
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|315|330|setHarvestLevel|method|net.minecraft.item.Item|setHarvestLevel|(Ljava/lang/String;I)V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|352|367|setHarvestLevel|method|net.minecraft.item.Item|setHarvestLevel|(Ljava/lang/String;I)V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|386|401|setHarvestLevel|method|net.minecraft.item.Item|setHarvestLevel|(Ljava/lang/String;I)V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|424|436|setMaxDamage|method|net.minecraft.item.Item|setMaxDamage|(I)Lnet/minecraft/item/Item;
+   Method End: Item_BlackGoldPickAxe()V
+Class End  : ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
+endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java"
+
+startProcessing "ddv12138\BlackGold\common\item\Itemloader.java" md5: 48fcac7f1234dc8c3140ac94b74db711
+@|ddv12138\BlackGold\common\item\Itemloader.java|8|38|ddv12138.BlackGold.common.item|package|ddv12138.BlackGold.common.item|(file)
+Class Start: ddv12138.BlackGold.common.item.Itemloader
+   @|ddv12138\BlackGold\common\item\Itemloader.java|558|568|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
+   @|ddv12138\BlackGold\common\item\Itemloader.java|586|590|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|586|590|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|591|602|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|609|628|Item_BlackGoldIngot|class|ddv12138.BlackGold.common.item.Item_BlackGoldIngot
+   @|ddv12138\BlackGold\common\item\Itemloader.java|631|649|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+   @|ddv12138\BlackGold\common\item\Itemloader.java|677|681|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|677|681|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|682|695|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|702|723|Item_BlackGoldPickAxe|class|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
+   @|ddv12138\BlackGold\common\item\Itemloader.java|726|744|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+   Method Start: init()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|779|783|init|method|ddv12138.BlackGold.common.item.Itemloader|init|()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|790|805|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|806|811|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|812|820|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|821|832|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
+      @|ddv12138\BlackGold\common\item\Itemloader.java|833|848|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|864|879|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|880|885|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|886|894|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|895|908|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
+      @|ddv12138\BlackGold\common\item\Itemloader.java|909|924|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+   Method End: init()V
+   Method Start: clientInit()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|945|953|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly
+      @|ddv12138\BlackGold\common\item\Itemloader.java|954|958|Side|class|net.minecraftforge.fml.relauncher.Side
+      @|ddv12138\BlackGold\common\item\Itemloader.java|959|965|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|ddv12138\BlackGold\common\item\Itemloader.java|987|997|clientInit|method|ddv12138.BlackGold.common.item.Itemloader|clientInit|()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1004|1015|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1016|1046|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1047|1058|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1067|1088|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1089|1100|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1101|1116|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1137|1148|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1149|1179|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1180|1193|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1202|1223|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1224|1237|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1238|1253|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: clientInit()V
+   Method Start: addSmelting()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1309|1320|addSmelting|method|ddv12138.BlackGold.common.item.Itemloader|addSmelting|()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1327|1339|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1340|1351|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/block/Block;Lnet/minecraft/item/ItemStack;F)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1352|1363|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1364|1371|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1377|1386|ItemStack|class|net.minecraft.item.ItemStack
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1387|1398|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
+   Method End: addSmelting()V
+   Method Start: addRecipe()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1431|1440|addRecipe|method|ddv12138.BlackGold.common.item.Itemloader|addRecipe|()V
+   Method End: addRecipe()V
+Class End  : ddv12138.BlackGold.common.item.Itemloader
+endProcessing "ddv12138\BlackGold\common\item\Itemloader.java"
+
+startProcessing "ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java" md5: 76a9573814924c46ebdcc4136d5dba1a
+@|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|8|43|ddv12138.BlackGold.common.world.gen|package|ddv12138.BlackGold.common.world.gen|(file)
+Class Start: ddv12138.BlackGold.common.world.gen.OreGenEventHandler
+   @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|490|508|OreGenEventHandler|class|ddv12138.BlackGold.common.world.gen.OreGenEventHandler
+   @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|527|541|WorldGenerator|class|net.minecraft.world.gen.feature.WorldGenerator
+   @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|527|541|WorldGenerator|class|net.minecraft.world.gen.feature.WorldGenerator
+   @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|542|552|GenBGblock|field|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|GenBGblock|
+   @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|559|574|WorldGenMinable|class|net.minecraft.world.gen.feature.WorldGenMinable
+   @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|575|586|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
+   @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|587|594|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
+   @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|595|610|getDefaultState|method|net.minecraft.block.Block|getDefaultState|()Lnet/minecraft/block/state/IBlockState;
+   Method Start: init()V
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|639|643|init|method|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|init|()V
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|650|664|MinecraftForge|class|net.minecraftforge.common.MinecraftForge
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|665|676|ORE_GEN_BUS|field|net.minecraftforge.common.MinecraftForge|ORE_GEN_BUS
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|677|685|register|method|net.minecraftforge.fml.common.eventhandler.EventBus|register|(Ljava/lang/Object;)V
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|686|704|OreGenEventHandler|class|ddv12138.BlackGold.common.world.gen.OreGenEventHandler
+   Method End: init()V
+   Method Start: onGenerateMinable(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|799|804|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|718|732|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|753|770|onGenerateMinable|method|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|771|798|OreGenEvent.GenerateMinable|class|net.minecraftforge.event.terraingen.OreGenEvent.GenerateMinable
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|814|819|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|820|827|getType|method|net.minecraftforge.event.terraingen.OreGenEvent.GenerateMinable|getType|()Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable$EventType;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|833|870|OreGenEvent.GenerateMinable.EventType|class|net.minecraftforge.event.terraingen.OreGenEvent.GenerateMinable.EventType
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|871|875|IRON|field|net.minecraftforge.event.terraingen.OreGenEvent.GenerateMinable.EventType|IRON
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|905|915|TerrainGen|class|net.minecraftforge.event.terraingen.TerrainGen
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|916|927|generateOre|method|net.minecraftforge.event.terraingen.TerrainGen|generateOre|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/gen/feature/WorldGenerator;Lnet/minecraft/util/math/BlockPos;Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable$EventType;)Z
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|928|933|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|934|942|getWorld|method|net.minecraftforge.event.terraingen.OreGenEvent|getWorld|()Lnet/minecraft/world/World;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|946|951|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|952|959|getRand|method|net.minecraftforge.event.terraingen.OreGenEvent|getRand|()Ljava/util/Random;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|963|973|GenBGblock|field|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|GenBGblock
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|975|980|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|981|987|getPos|method|net.minecraftforge.event.terraingen.OreGenEvent|getPos|()Lnet/minecraft/util/math/BlockPos;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|991|1028|OreGenEvent.GenerateMinable.EventType|class|net.minecraftforge.event.terraingen.OreGenEvent.GenerateMinable.EventType
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1029|1035|CUSTOM|field|net.minecraftforge.event.terraingen.OreGenEvent.GenerateMinable.EventType|CUSTOM
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1116|1121|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1122|1128|getPos|method|net.minecraftforge.event.terraingen.OreGenEvent|getPos|()Lnet/minecraft/util/math/BlockPos;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1131|1135|getX|method|net.minecraft.util.math.Vec3i|getX|()I
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1140|1145|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1146|1153|getRand|method|net.minecraftforge.event.terraingen.OreGenEvent|getRand|()Ljava/util/Random;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1156|1163|nextInt|method|java.util.Random|nextInt|(I)I
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1194|1199|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1200|1207|getRand|method|net.minecraftforge.event.terraingen.OreGenEvent|getRand|()Ljava/util/Random;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1210|1217|nextInt|method|java.util.Random|nextInt|(I)I
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1243|1248|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1249|1255|getPos|method|net.minecraftforge.event.terraingen.OreGenEvent|getPos|()Lnet/minecraft/util/math/BlockPos;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1258|1262|getZ|method|net.minecraft.util.math.Vec3i|getZ|()I
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1267|1272|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1273|1280|getRand|method|net.minecraftforge.event.terraingen.OreGenEvent|getRand|()Ljava/util/Random;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1283|1290|nextInt|method|java.util.Random|nextInt|(I)I
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1305|1313|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1329|1337|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1366|1376|GenBGblock|field|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|GenBGblock
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1377|1385|generate|method|net.minecraft.world.gen.feature.WorldGenerator|generate|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1386|1391|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1392|1400|getWorld|method|net.minecraftforge.event.terraingen.OreGenEvent|getWorld|()Lnet/minecraft/world/World;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1404|1409|event|param|ddv12138.BlackGold.common.world.gen.OreGenEventHandler|onGenerateMinable|(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V|event|0
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1410|1417|getRand|method|net.minecraftforge.event.terraingen.OreGenEvent|getRand|()Ljava/util/Random;
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1441|1447|System|class|java.lang.System
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1448|1451|out|field|java.lang.System|out
+      @|ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java|1452|1459|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+   Method End: onGenerateMinable(Lnet/minecraftforge/event/terraingen/OreGenEvent$GenerateMinable;)V
+Class End  : ddv12138.BlackGold.common.world.gen.OreGenEventHandler
+endProcessing "ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java"
+

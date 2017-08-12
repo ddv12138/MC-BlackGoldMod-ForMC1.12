@@ -1,0 +1,29 @@
+Symbol range map extraction starting
+Processing 9 files
+startProcessing "ddv12138\BlackGold\BlackGold.java" md5: f3bb8b12c8ab4dcdfdbaed8e5f85970b
+endProcessing "ddv12138\BlackGold\BlackGold.java"
+
+startProcessing "ddv12138\BlackGold\client\ClientProxy.java" md5: b6bddbf5ce2f29a527544f7c6c77d38c
+endProcessing "ddv12138\BlackGold\client\ClientProxy.java"
+
+startProcessing "ddv12138\BlackGold\common\CommonProxy.java" md5: d0516330feaec0e91f61369bad308acb
+endProcessing "ddv12138\BlackGold\common\CommonProxy.java"
+
+startProcessing "ddv12138\BlackGold\common\block\BlockLoader.java" md5: 04b49f063680b4b0af05a1020b2f9f60
+endProcessing "ddv12138\BlackGold\common\block\BlockLoader.java"
+
+startProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java" md5: d454f6d475b1e0eea750c22d1de9d9c8
+endProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java"
+
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java" md5: 22fc1f9ba98d54a1e63977a720fbea02
+endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java"
+
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java" md5: 613b9e715819d71f9872ddf11015cb6a
+endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java"
+
+startProcessing "ddv12138\BlackGold\common\item\Itemloader.java" md5: 48fcac7f1234dc8c3140ac94b74db711
+endProcessing "ddv12138\BlackGold\common\item\Itemloader.java"
+
+startProcessing "ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java" md5: 76a9573814924c46ebdcc4136d5dba1a
+endProcessing "ddv12138\BlackGold\common\world\gen\OreGenEventHandler.java"
+
