@@ -3,7 +3,7 @@
   "modid": "blackgold",
   "name": "blackgold",
   "description": "增加一种神奇物质，黑金.",
-  "version": "1.0",
+  "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",

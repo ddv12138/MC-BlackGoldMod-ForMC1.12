@@ -11,6 +11,7 @@ public class Block_BlackGold extends Block{
 		super(Material.ROCK);
 		this.setSoundType(blockSoundType.STONE);
 		this.setHardness(30.0f);
+		this.setLightLevel(1.0f);
 		this.setHarvestLevel("pickaxe", 3);
 		this.setCreativeTab(bgtab.bgtab);
 	}

@@ -1,7 +1,6 @@
 Symbol range map extraction starting
 Processing 11 files
-startProcessing "ddv12138\BlackGold\BlackGold.java" md5: f3bb8b12c8ab4dcdfdbaed8e5f85970b
-Cache Hit!
+startProcessing "ddv12138\BlackGold\BlackGold.java" md5: 769cf8c1283add11197d89e3720397bb
 @|ddv12138\BlackGold\BlackGold.java|8|26|ddv12138.BlackGold|package|ddv12138.BlackGold|(file)
 Class Start: ddv12138.BlackGold.BlackGold
    @|ddv12138\BlackGold\BlackGold.java|411|414|Mod|class|net.minecraftforge.fml.common.Mod
@@ -85,26 +84,25 @@ Class Start: ddv12138.BlackGold.client.ClientProxy
 Class End  : ddv12138.BlackGold.client.ClientProxy
 endProcessing "ddv12138\BlackGold\client\ClientProxy.java"
 
-startProcessing "ddv12138\BlackGold\common\CommonProxy.java" md5: d0516330feaec0e91f61369bad308acb
-Cache Hit!
+startProcessing "ddv12138\BlackGold\common\CommonProxy.java" md5: d239ff39d6972842868ebcec71057572
 @|ddv12138\BlackGold\common\CommonProxy.java|8|33|ddv12138.BlackGold.common|package|ddv12138.BlackGold.common|(file)
 Class Start: ddv12138.BlackGold.common.CommonProxy
-   @|ddv12138\BlackGold\common\CommonProxy.java|289|300|CommonProxy|class|ddv12138.BlackGold.common.CommonProxy
+   @|ddv12138\BlackGold\common\CommonProxy.java|349|360|CommonProxy|class|ddv12138.BlackGold.common.CommonProxy
    Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|ddv12138\BlackGold\common\CommonProxy.java|350|355|event|param|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
-      @|ddv12138\BlackGold\common\CommonProxy.java|316|323|preInit|method|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|ddv12138\BlackGold\common\CommonProxy.java|324|349|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
-      @|ddv12138\BlackGold\common\CommonProxy.java|361|371|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
-      @|ddv12138\BlackGold\common\CommonProxy.java|372|376|init|method|ddv12138.BlackGold.common.item.Itemloader|init|()V
-      @|ddv12138\BlackGold\common\CommonProxy.java|382|393|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
-      @|ddv12138\BlackGold\common\CommonProxy.java|394|398|init|method|ddv12138.BlackGold.common.block.BlockLoader|init|()V
-      @|ddv12138\BlackGold\common\CommonProxy.java|404|414|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
-      @|ddv12138\BlackGold\common\CommonProxy.java|415|426|addSmelting|method|ddv12138.BlackGold.common.item.Itemloader|addSmelting|()V
+      @|ddv12138\BlackGold\common\CommonProxy.java|410|415|event|param|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\common\CommonProxy.java|376|383|preInit|method|ddv12138.BlackGold.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|ddv12138\BlackGold\common\CommonProxy.java|384|409|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|ddv12138\BlackGold\common\CommonProxy.java|421|431|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
+      @|ddv12138\BlackGold\common\CommonProxy.java|432|436|init|method|ddv12138.BlackGold.common.item.Itemloader|init|()V
+      @|ddv12138\BlackGold\common\CommonProxy.java|442|453|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
+      @|ddv12138\BlackGold\common\CommonProxy.java|454|458|init|method|ddv12138.BlackGold.common.block.BlockLoader|init|()V
+      @|ddv12138\BlackGold\common\CommonProxy.java|464|474|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
+      @|ddv12138\BlackGold\common\CommonProxy.java|475|486|addSmelting|method|ddv12138.BlackGold.common.item.Itemloader|addSmelting|()V
    Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
    Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|ddv12138\BlackGold\common\CommonProxy.java|481|486|event|param|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
-      @|ddv12138\BlackGold\common\CommonProxy.java|453|457|init|method|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|ddv12138\BlackGold\common\CommonProxy.java|458|480|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|ddv12138\BlackGold\common\CommonProxy.java|541|546|event|param|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|ddv12138\BlackGold\common\CommonProxy.java|513|517|init|method|ddv12138.BlackGold.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|ddv12138\BlackGold\common\CommonProxy.java|518|540|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
    Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
 Class End  : ddv12138.BlackGold.common.CommonProxy
 endProcessing "ddv12138\BlackGold\common\CommonProxy.java"
@@ -152,8 +150,7 @@ Class Start: ddv12138.BlackGold.common.block.BlockLoader
 Class End  : ddv12138.BlackGold.common.block.BlockLoader
 endProcessing "ddv12138\BlackGold\common\block\BlockLoader.java"
 
-startProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java" md5: e0c4c69840a107951caab6165d73725b
-Cache Hit!
+startProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java" md5: 87f6e0b95a2762669dbc0fceefd04c12
 @|ddv12138\BlackGold\common\block\Block_BlackGold.java|8|39|ddv12138.BlackGold.common.block|package|ddv12138.BlackGold.common.block|(file)
 Class Start: ddv12138.BlackGold.common.block.Block_BlackGold
    @|ddv12138\BlackGold\common\block\Block_BlackGold.java|180|195|Block_BlackGold|class|ddv12138.BlackGold.common.block.Block_BlackGold
@@ -166,16 +163,16 @@ Class Start: ddv12138.BlackGold.common.block.Block_BlackGold
       @|ddv12138\BlackGold\common\block\Block_BlackGold.java|311|325|blockSoundType|field|net.minecraft.block.Block|blockSoundType
       @|ddv12138\BlackGold\common\block\Block_BlackGold.java|326|331|STONE|field|net.minecraft.block.SoundType|STONE
       @|ddv12138\BlackGold\common\block\Block_BlackGold.java|341|352|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
-      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|368|383|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
-      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|406|420|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
-      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|421|426|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
-      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|427|432|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|368|381|setLightLevel|method|net.minecraft.block.Block|setLightLevel|(F)Lnet/minecraft/block/Block;
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|396|411|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|434|448|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|449|454|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
+      @|ddv12138\BlackGold\common\block\Block_BlackGold.java|455|460|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
    Method End: Block_BlackGold()V
 Class End  : ddv12138.BlackGold.common.block.Block_BlackGold
 endProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java" md5: 50405311106b9c3d38cb1fa35f6e6845
-Cache Hit!
+startProcessing "ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java" md5: 3b52d759dfce8880a0fdd7cb27c6e6f6
 @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|8|44|ddv12138.BlackGold.common.item.Armor|package|ddv12138.BlackGold.common.item.Armor|(file)
 Class Start: ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
    @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|357|376|Item_BlackGoldArmor|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor

@@ -9,7 +9,7 @@ import net.minecraft.item.ItemArmor;
 import net.minecraft.util.SoundEvent;
 
 public class Item_BlackGoldArmor extends ItemArmor{
-	public final static ItemArmor.ArmorMaterial BLACK_GOLD_ARMOR = EnumHelper.addArmorMaterial("BlackGold",BlackGold.MODID + ":" + "blackgold", 10, new int[]{ 3, 8, 6, 3 }, 10, null, 4);
+	public final static ItemArmor.ArmorMaterial BLACK_GOLD_ARMOR = EnumHelper.addArmorMaterial("blackgold",BlackGold.MODID + ":" + "blackgold", 10, new int[]{ 3, 8, 6, 3 }, 10, null, 4);
 	public Item_BlackGoldArmor(EntityEquipmentSlot armorType) {
 		super(BLACK_GOLD_ARMOR, BLACK_GOLD_ARMOR.ordinal(), armorType);
 		// TODO �Զ����ɵĹ��캯�����

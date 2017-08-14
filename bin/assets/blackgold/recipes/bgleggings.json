@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "blackgold:bgingot"
+    }
+  },
+  "result": {
+    "item": "blackgold:bgleggings"
+  }
+}
