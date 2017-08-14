@@ -1,31 +1,30 @@
-[11:36:08] [main/INFO]: Setting user: Player432
-[11:36:16] [main/WARN]: Skipping bad option: lastServer:
-[11:36:16] [main/INFO]: LWJGL Version: 2.9.4
-[11:36:23] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:blackgold
-[11:36:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[11:36:34] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[11:36:34] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[11:36:34] [Thread-5/INFO]: OpenAL initialized.
-[11:36:34] [Sound Library Loader/INFO]: Sound engine started
-[11:36:50] [main/INFO]: Created: 512x512 textures-atlas
-[11:36:54] [main/WARN]: Skipping bad option: lastServer:
-[11:36:54] [main/INFO]: Narrator library for x64 successfully loaded
-[11:36:57] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[11:37:10] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[11:37:10] [Server thread/INFO]: Generating keypair
-[11:37:12] [Server thread/INFO]: Loaded 488 advancements
-[11:37:13] [Server thread/INFO]: Preparing start region for level 0
-[11:37:14] [Server thread/INFO]: Preparing spawn area: 0%
-[11:37:15] [Server thread/INFO]: Preparing spawn area: 54%
-[11:37:15] [Server thread/INFO]: Changing view distance to 12, from 10
-[11:37:28] [Server thread/INFO]: [@: 将时间设为1]
-[11:37:42] [Server thread/INFO]: Player432[local:E:16a3ecdc] logged in with entity id 201 at (-204.85850599379737, 79.0, 186.57200392223908)
-[11:37:42] [Server thread/INFO]: Player432加入了游戏
-[11:37:43] [Server thread/INFO]: Saving and pausing game...
-[11:37:43] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[11:37:44] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[11:37:44] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[11:37:44] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@722c37ee[id=d752da32-446a-32a0-876c-33f203010ff8,name=Player432,properties={},legacy=false]
+[19:14:26] [main/INFO]: Setting user: Player186
+[19:14:33] [main/WARN]: Skipping bad option: lastServer:
+[19:14:33] [main/INFO]: LWJGL Version: 2.9.4
+[19:14:40] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:blackgold
+[19:14:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:14:49] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[19:14:49] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:14:49] [Thread-5/INFO]: OpenAL initialized.
+[19:14:50] [Sound Library Loader/INFO]: Sound engine started
+[19:15:05] [main/INFO]: Created: 512x512 textures-atlas
+[19:15:09] [main/WARN]: Skipping bad option: lastServer:
+[19:15:09] [main/INFO]: Narrator library for x64 successfully loaded
+[19:15:12] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:15:26] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[19:15:26] [Server thread/INFO]: Generating keypair
+[19:15:28] [Server thread/INFO]: Loaded 488 advancements
+[19:15:28] [Server thread/INFO]: Preparing start region for level 0
+[19:15:29] [Server thread/INFO]: Preparing spawn area: 0%
+[19:15:30] [Server thread/INFO]: Preparing spawn area: 57%
+[19:15:31] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:15:34] [Server thread/INFO]: Player186[local:E:2fbc99f5] logged in with entity id 284 at (-205.48268308465993, 80.0, 187.6623152917475)
+[19:15:34] [Server thread/INFO]: Player186加入了游戏
+[19:15:36] [Server thread/INFO]: Saving and pausing game...
+[19:15:36] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[19:15:37] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[19:15:37] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[19:15:38] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@1d485083[id=abf9489f-335c-323d-bf8c-6e98800dc4a3,name=Player186,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
@@ -47,54 +46,21 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_101]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_101]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_101]
-[11:37:45] [Server thread/INFO]: Saving and pausing game...
-[11:37:45] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[11:37:45] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[11:37:45] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[11:39:13] [Server thread/INFO]: Saving and pausing game...
-[11:39:13] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[11:39:13] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[11:39:13] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[11:39:18] [Server thread/INFO]: Changing difficulty to EASY, from PEACEFUL
-[11:40:05] [Server thread/INFO]: Player432取得了进度[怪物猎人]
-[11:40:05] [main/INFO]: [CHAT] Player432取得了进度[怪物猎人]
-[11:40:05] [main/INFO]: Loaded 10 advancements
-[11:40:06] [main/INFO]: Loaded 15 advancements
-[11:40:08] [main/INFO]: Loaded 21 advancements
-[11:41:17] [main/INFO]: Loaded 30 advancements
-[11:42:23] [Server thread/INFO]: [Player432: 您的游戏模式已被设置为创造模式 ]
-[11:42:23] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[11:42:26] [Server thread/INFO]: [Player432: 您的游戏模式已被设置为生存模式 ]
-[11:42:26] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
-[11:42:32] [Server thread/INFO]: [Player432: 您的游戏模式已被设置为创造模式 ]
-[11:42:32] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[11:42:44] [Server thread/INFO]: Player432取得了进度[这不是铁镐么]
-[11:42:44] [main/INFO]: [CHAT] Player432取得了进度[这不是铁镐么]
-[11:42:44] [main/INFO]: Loaded 38 advancements
-[11:42:46] [Server thread/INFO]: Player432取得了进度[获得升级]
-[11:42:46] [main/INFO]: [CHAT] Player432取得了进度[获得升级]
-[11:42:46] [main/INFO]: Loaded 41 advancements
-[11:43:01] [Server thread/INFO]: [Player432: 您的游戏模式已被设置为生存模式 ]
-[11:43:01] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
-[11:43:14] [Server thread/INFO]: [Player432: 您的游戏模式已被设置为创造模式 ]
-[11:43:14] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[11:43:25] [Server thread/INFO]: [Player432: 您的游戏模式已被设置为生存模式 ]
-[11:43:25] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
-[11:46:05] [Server thread/INFO]: [Player432: 您的游戏模式已被设置为创造模式 ]
-[11:46:05] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[11:46:33] [Server thread/INFO]: Saving and pausing game...
-[11:46:33] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[11:46:33] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[11:46:33] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[11:46:34] [Server thread/INFO]: Stopping server
-[11:46:34] [Server thread/INFO]: Saving players
-[11:46:34] [Server thread/INFO]: Player432 lost connection: 连接中止
-[11:46:34] [Server thread/INFO]: Player432退出了游戏
-[11:46:34] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[11:46:34] [Server thread/INFO]: Saving worlds
-[11:46:34] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[11:46:34] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[11:46:34] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[11:46:36] [main/INFO]: Stopping!
-[11:46:36] [main/INFO]: SoundSystem shutting down...
-[11:46:36] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:18:02] [Server thread/INFO]: [@: 将时间设为1]
+[19:18:02] [main/INFO]: [CHAT] [@: 将时间设为1]
+[19:18:38] [Server thread/INFO]: Saving and pausing game...
+[19:18:38] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[19:18:38] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[19:18:38] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[19:18:39] [Server thread/INFO]: Stopping server
+[19:18:39] [Server thread/INFO]: Saving players
+[19:18:39] [Server thread/INFO]: Player186 lost connection: 连接中止
+[19:18:39] [Server thread/INFO]: Player186退出了游戏
+[19:18:39] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:18:39] [Server thread/INFO]: Saving worlds
+[19:18:39] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[19:18:39] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[19:18:39] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[19:18:41] [main/INFO]: Stopping!
+[19:18:41] [main/INFO]: SoundSystem shutting down...
+[19:18:41] [main/WARN]: Author: Paul Lamb, www.paulscode.com
