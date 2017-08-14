@@ -1,82 +1,65 @@
-[21:48:42] [main/INFO]: Setting user: Player117
-[21:48:48] [main/WARN]: Skipping bad option: lastServer:
-[21:48:48] [main/INFO]: LWJGL Version: 2.9.4
-[21:48:56] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:blackgold
-[21:49:05] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:49:05] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[21:49:05] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:49:06] [Thread-5/INFO]: OpenAL initialized.
-[21:49:06] [Sound Library Loader/INFO]: Sound engine started
-[21:49:21] [main/INFO]: Created: 512x512 textures-atlas
-[21:49:25] [main/WARN]: Skipping bad option: lastServer:
-[21:49:25] [main/INFO]: Narrator library for x64 successfully loaded
-[21:49:30] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[21:49:30] [Server thread/INFO]: Generating keypair
-[21:49:32] [Server thread/INFO]: Loaded 488 advancements
-[21:49:32] [Server thread/INFO]: Preparing start region for level 0
-[21:49:33] [Server thread/INFO]: Preparing spawn area: 4%
-[21:49:34] [Server thread/INFO]: Preparing spawn area: 78%
-[21:49:35] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:49:39] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[21:49:39] [Server thread/INFO]: Player117[local:E:d9498306] logged in with entity id 286 at (-110.41514471198738, 63.0, 249.61047005553397)
-[21:49:39] [Server thread/INFO]: Player117加入了游戏
-[21:49:42] [Server thread/INFO]: Saving and pausing game...
-[21:49:42] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[21:49:42] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[21:49:42] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[21:49:42] [main/INFO]: Loaded 2 advancements
-[21:50:45] [Server thread/INFO]: Saving and pausing game...
-[21:50:45] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[21:50:45] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[21:50:45] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[21:50:49] [Server thread/INFO]: Changing difficulty to EASY, from PEACEFUL
-[21:50:55] [Server thread/INFO]: Player117取得了进度[怪物猎人]
-[21:50:55] [main/INFO]: [CHAT] Player117取得了进度[怪物猎人]
-[21:50:55] [main/INFO]: Loaded 12 advancements
-[21:51:14] [main/INFO]: Loaded 13 advancements
-[21:52:08] [Server thread/INFO]: Saving and pausing game...
-[21:52:08] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[21:52:08] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[21:52:08] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[21:52:11] [Server thread/INFO]: Changing difficulty to PEACEFUL, from EASY
-[21:52:12] [Server thread/INFO]: Saving and pausing game...
-[21:52:12] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[21:52:13] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[21:52:13] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[21:52:15] [Server thread/INFO]: Changing difficulty to EASY, from PEACEFUL
-[21:52:25] [Server thread/INFO]: [Player117: 您的游戏模式已被设置为生存模式 ]
-[21:52:25] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
-[21:52:43] [Server thread/INFO]: [Player117: 您的游戏模式已被设置为创造模式 ]
-[21:52:43] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[21:53:09] [Server thread/INFO]: [Player117: 您的游戏模式已被设置为生存模式 ]
-[21:53:09] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
-[21:53:59] [main/INFO]: Loaded 13 advancements
-[21:54:00] [main/INFO]: Loaded 14 advancements
-[21:54:09] [main/INFO]: Loaded 14 advancements
-[21:54:14] [main/INFO]: Loaded 14 advancements
-[21:54:27] [main/INFO]: Loaded 15 advancements
-[21:54:27] [main/INFO]: Loaded 19 advancements
-[21:54:31] [main/INFO]: Loaded 19 advancements
-[21:54:46] [Server thread/INFO]: [Player117: 您的游戏模式已被设置为创造模式 ]
-[21:54:46] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[21:54:48] [Server thread/INFO]: Saving and pausing game...
-[21:54:48] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[21:54:48] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[21:54:48] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[21:54:52] [Server thread/INFO]: Changing difficulty to PEACEFUL, from EASY
-[21:55:45] [Server thread/INFO]: Saving and pausing game...
-[21:55:45] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[21:55:45] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[21:55:45] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[21:55:46] [Server thread/INFO]: Stopping server
-[21:55:46] [Server thread/INFO]: Saving players
-[21:55:46] [Server thread/INFO]: Player117 lost connection: 连接中止
-[21:55:46] [Server thread/INFO]: Player117退出了游戏
-[21:55:46] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[21:55:46] [Server thread/INFO]: Saving worlds
-[21:55:46] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[21:55:46] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[21:55:46] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[21:55:50] [main/INFO]: Stopping!
-[21:55:50] [main/INFO]: SoundSystem shutting down...
-[21:55:50] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:10:54] [main/INFO]: Setting user: Player48
+[22:11:00] [main/WARN]: Skipping bad option: lastServer:
+[22:11:00] [main/INFO]: LWJGL Version: 2.9.4
+[22:11:07] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:blackgold
+[22:11:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:11:14] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[22:11:14] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:11:14] [Thread-5/INFO]: OpenAL initialized.
+[22:11:15] [Sound Library Loader/INFO]: Sound engine started
+[22:11:24] [main/INFO]: Created: 512x512 textures-atlas
+[22:11:28] [main/WARN]: Skipping bad option: lastServer:
+[22:11:28] [main/INFO]: Narrator library for x64 successfully loaded
+[22:11:32] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[22:11:34] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[22:11:34] [Server thread/INFO]: Generating keypair
+[22:11:36] [Server thread/INFO]: Loaded 488 advancements
+[22:11:36] [Server thread/INFO]: Preparing start region for level 0
+[22:11:37] [Server thread/INFO]: Preparing spawn area: 3%
+[22:11:38] [Server thread/INFO]: Preparing spawn area: 92%
+[22:11:38] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:11:48] [Server thread/INFO]: Player48[local:E:54816f62] logged in with entity id 310 at (-104.35491756227343, 61.0, 254.35345411383238)
+[22:11:48] [Server thread/INFO]: Player48加入了游戏
+[22:11:50] [Server thread/INFO]: Saving and pausing game...
+[22:11:51] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:11:51] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[22:11:51] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[22:11:51] [main/INFO]: Loaded 9 advancements
+[22:12:48] [main/INFO]: Loaded 12 advancements
+[22:14:52] [main/INFO]: Loaded 13 advancements
+[22:18:14] [Server thread/INFO]: <Player48> -154 85 176
+[22:18:14] [main/INFO]: [CHAT] <Player48> -154 85 176
+[22:18:38] [Server thread/INFO]: <Player48> -97 85 256
+[22:18:38] [main/INFO]: [CHAT] <Player48> -97 85 256
+[22:19:00] [Server thread/INFO]: [Player48: 已填充1159个方块]
+[22:19:00] [main/INFO]: [CHAT] 已填充1159个方块
+[22:19:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2892ms behind, skipping 57 tick(s)
+[22:19:20] [main/INFO]: [CHAT] 没有方块被填充
+[22:19:56] [main/INFO]: [CHAT] 未知指令。请使用/help来查看指令列表。
+[22:20:52] [Server thread/INFO]: [Player48: 已填充2个方块]
+[22:20:52] [main/INFO]: [CHAT] 已填充2个方块
+[22:21:26] [Server thread/INFO]: <Player48> -155 85 175
+[22:21:26] [main/INFO]: [CHAT] <Player48> -155 85 175
+[22:22:14] [Server thread/INFO]: [Player48: 已填充4640个方块]
+[22:22:14] [main/INFO]: [CHAT] 已填充4640个方块
+[22:22:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13192ms behind, skipping 263 tick(s)
+[22:22:15] [main/INFO]: [CHAT] 没有方块被填充
+[22:26:40] [main/INFO]: Loaded 19 advancements
+[22:34:23] [Server thread/INFO]: [@: 将时间设为1]
+[22:34:23] [main/INFO]: [CHAT] [@: 将时间设为1]
+[22:34:35] [Server thread/INFO]: Saving and pausing game...
+[22:34:35] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:34:35] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[22:34:35] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[22:34:35] [Server thread/INFO]: Stopping server
+[22:34:35] [Server thread/INFO]: Saving players
+[22:34:35] [Server thread/INFO]: Player48 lost connection: 连接中止
+[22:34:35] [Server thread/INFO]: Player48退出了游戏
+[22:34:36] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:34:36] [Server thread/INFO]: Saving worlds
+[22:34:36] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[22:34:36] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[22:34:36] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[22:34:38] [main/INFO]: Stopping!
+[22:34:38] [main/INFO]: SoundSystem shutting down...
+[22:34:38] [main/WARN]: Author: Paul Lamb, www.paulscode.com
