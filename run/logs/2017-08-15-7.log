@@ -1,0 +1,54 @@
+[13:42:02] [main/INFO]: Setting user: Player381
+[13:42:09] [main/WARN]: Skipping bad option: lastServer:
+[13:42:09] [main/INFO]: LWJGL Version: 2.9.4
+[13:42:16] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:blackgold
+[13:42:17] [main/INFO]: [STDOUT]: 30------------------------------------------------sword
+[13:42:17] [main/INFO]: [STDOUT]: 30------------------------------------------------chestplate
+[13:42:25] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:42:25] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[13:42:25] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:42:25] [Thread-5/INFO]: OpenAL initialized.
+[13:42:25] [Sound Library Loader/INFO]: Sound engine started
+[13:42:40] [main/INFO]: Created: 512x512 textures-atlas
+[13:42:44] [main/WARN]: Skipping bad option: lastServer:
+[13:42:44] [main/INFO]: Narrator library for x64 successfully loaded
+[13:42:47] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:43:29] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[13:43:29] [Server thread/INFO]: Generating keypair
+[13:43:31] [Server thread/INFO]: Loaded 488 advancements
+[13:43:32] [Server thread/INFO]: Preparing start region for level 0
+[13:43:33] [Server thread/INFO]: Preparing spawn area: 3%
+[13:43:34] [Server thread/INFO]: Preparing spawn area: 69%
+[13:43:34] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:43:45] [Server thread/INFO]: Player381[local:E:fc4d8994] logged in with entity id 226 at (-124.50887507351365, 61.0, 250.2723307922377)
+[13:43:45] [Server thread/INFO]: Player381加入了游戏
+[13:43:47] [Server thread/INFO]: Saving and pausing game...
+[13:43:47] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[13:43:47] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[13:43:47] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[13:43:48] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@5a9eed2e[id=9345ca96-31f6-3ef6-a1e6-265e7320184d,name=Player381,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3156) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_101]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_101]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_101]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_101]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_101]
+[13:44:45] [Server thread/INFO]: Saving and pausing game...
+[13:44:45] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[13:44:46] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[13:44:46] [Server thread/INFO]: Saving chunks for level 'New World'/the_end

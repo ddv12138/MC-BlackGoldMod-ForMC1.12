@@ -15,8 +15,9 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
 public class Itemloader {
-	public static Item itemBGingot = new Item_BlackGoldIngot().setUnlocalizedName("bgingot");
-	public static Item itemBGpickaxe = new Item_BlackGoldPickAxe().setUnlocalizedName("bgpickaxe");
+	public static Item itemBGingot = new Item_BlackGoldIngot();
+	public static Item itemBGpickaxe = new Item_BlackGoldPickAxe();
+	public static Item itemBGsword = new Item_BlackGoldSword();
 	
 	
 	public static Item itemBGhelmet = new Item_BlackGoldArmor.Helmet();
@@ -28,6 +29,7 @@ public class Itemloader {
 	public static void init() {
 		ForgeRegistries.ITEMS.register(itemBGingot.setRegistryName("bgingot"));
 		ForgeRegistries.ITEMS.register(itemBGpickaxe.setRegistryName("bgpickaxe"));
+		ForgeRegistries.ITEMS.register(itemBGsword.setRegistryName("bgsword"));
 		
 		ForgeRegistries.ITEMS.register(itemBGhelmet.setRegistryName("bghelmet"));
 		ForgeRegistries.ITEMS.register(itemBGChestplate.setRegistryName("bgchestplate"));
@@ -39,6 +41,7 @@ public class Itemloader {
 	public static void clientInit() {
 		ModelLoader.setCustomModelResourceLocation(itemBGingot, 0, new ModelResourceLocation(itemBGingot.getRegistryName(), "inventory"));
 		ModelLoader.setCustomModelResourceLocation(itemBGpickaxe, 0, new ModelResourceLocation(itemBGpickaxe.getRegistryName(), "inventory"));
+		ModelLoader.setCustomModelResourceLocation(itemBGsword, 0, new ModelResourceLocation(itemBGsword.getRegistryName(), "inventory"));
 		
 		ModelLoader.setCustomModelResourceLocation(itemBGhelmet, 0, new ModelResourceLocation(itemBGhelmet.getRegistryName(), "inventory"));
 		ModelLoader.setCustomModelResourceLocation(itemBGChestplate, 0, new ModelResourceLocation(itemBGChestplate.getRegistryName(), "inventory"));
@@ -47,7 +50,7 @@ public class Itemloader {
 	}
 	//‘ˆº”»€¡∂≈‰∑Ω
 	public static void addSmelting() {
-		GameRegistry.addSmelting(BlockLoader.blockbg, new ItemStack(itemBGingot), 0.5f);
+		GameRegistry.addSmelting(BlockLoader.blockbg, new ItemStack(itemBGingot), 100f);
 	}
 	public static void addRecipe(){
 		
