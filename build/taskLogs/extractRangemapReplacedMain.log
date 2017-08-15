@@ -1,6 +1,7 @@
 Symbol range map extraction starting
-Processing 11 files
+Processing 12 files
 startProcessing "ddv12138\BlackGold\BlackGold.java" md5: 769cf8c1283add11197d89e3720397bb
+Cache Hit!
 endProcessing "ddv12138\BlackGold\BlackGold.java"
 
 startProcessing "ddv12138\BlackGold\client\ClientProxy.java" md5: b6bddbf5ce2f29a527544f7c6c77d38c
@@ -8,6 +9,7 @@ Cache Hit!
 endProcessing "ddv12138\BlackGold\client\ClientProxy.java"
 
 startProcessing "ddv12138\BlackGold\common\CommonProxy.java" md5: d239ff39d6972842868ebcec71057572
+Cache Hit!
 endProcessing "ddv12138\BlackGold\common\CommonProxy.java"
 
 startProcessing "ddv12138\BlackGold\common\block\BlockLoader.java" md5: 04b49f063680b4b0af05a1020b2f9f60
@@ -15,20 +17,26 @@ Cache Hit!
 endProcessing "ddv12138\BlackGold\common\block\BlockLoader.java"
 
 startProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java" md5: 87f6e0b95a2762669dbc0fceefd04c12
+Cache Hit!
 endProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java" md5: 3b52d759dfce8880a0fdd7cb27c6e6f6
+startProcessing "ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java" md5: 948e821deee042e1053deae4e8034a54
+Cache Hit!
 endProcessing "ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java" md5: 2180d271ec9415e90b2343d732ee3aa2
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java" md5: 7c519cf37b34927b005b8ddaf9789406
 Cache Hit!
 endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java" md5: bdc79473112d407d4fa9edeb829968c3
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java" md5: 516cc7edb3fcfb4b5157a78646e45bda
 Cache Hit!
 endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Itemloader.java" md5: aea526eb62891a4e8fa064a34db6a547
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldSword.java" md5: 14a8f80594a3df967d411367b4ae13ec
+Cache Hit!
+endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldSword.java"
+
+startProcessing "ddv12138\BlackGold\common\item\Itemloader.java" md5: f29946ae6ce117299701d3acf60524f5
 Cache Hit!
 endProcessing "ddv12138\BlackGold\common\item\Itemloader.java"
 

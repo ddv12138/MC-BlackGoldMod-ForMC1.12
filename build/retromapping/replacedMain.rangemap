@@ -1,6 +1,7 @@
 Symbol range map extraction starting
-Processing 11 files
+Processing 12 files
 startProcessing "ddv12138\BlackGold\BlackGold.java" md5: 769cf8c1283add11197d89e3720397bb
+Cache Hit!
 @|ddv12138\BlackGold\BlackGold.java|8|26|ddv12138.BlackGold|package|ddv12138.BlackGold|(file)
 Class Start: ddv12138.BlackGold.BlackGold
    @|ddv12138\BlackGold\BlackGold.java|411|414|Mod|class|net.minecraftforge.fml.common.Mod
@@ -85,6 +86,7 @@ Class End  : ddv12138.BlackGold.client.ClientProxy
 endProcessing "ddv12138\BlackGold\client\ClientProxy.java"
 
 startProcessing "ddv12138\BlackGold\common\CommonProxy.java" md5: d239ff39d6972842868ebcec71057572
+Cache Hit!
 @|ddv12138\BlackGold\common\CommonProxy.java|8|33|ddv12138.BlackGold.common|package|ddv12138.BlackGold.common|(file)
 Class Start: ddv12138.BlackGold.common.CommonProxy
    @|ddv12138\BlackGold\common\CommonProxy.java|349|360|CommonProxy|class|ddv12138.BlackGold.common.CommonProxy
@@ -151,6 +153,7 @@ Class End  : ddv12138.BlackGold.common.block.BlockLoader
 endProcessing "ddv12138\BlackGold\common\block\BlockLoader.java"
 
 startProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java" md5: 87f6e0b95a2762669dbc0fceefd04c12
+Cache Hit!
 @|ddv12138\BlackGold\common\block\Block_BlackGold.java|8|39|ddv12138.BlackGold.common.block|package|ddv12138.BlackGold.common.block|(file)
 Class Start: ddv12138.BlackGold.common.block.Block_BlackGold
    @|ddv12138\BlackGold\common\block\Block_BlackGold.java|180|195|Block_BlackGold|class|ddv12138.BlackGold.common.block.Block_BlackGold
@@ -172,7 +175,8 @@ Class Start: ddv12138.BlackGold.common.block.Block_BlackGold
 Class End  : ddv12138.BlackGold.common.block.Block_BlackGold
 endProcessing "ddv12138\BlackGold\common\block\Block_BlackGold.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java" md5: 3b52d759dfce8880a0fdd7cb27c6e6f6
+startProcessing "ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java" md5: 948e821deee042e1053deae4e8034a54
+Cache Hit!
 @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|8|44|ddv12138.BlackGold.common.item.Armor|package|ddv12138.BlackGold.common.item.Armor|(file)
 Class Start: ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
    @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|357|376|Item_BlackGoldArmor|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
@@ -217,38 +221,42 @@ Class Start: ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
          @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1166|1180|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
          @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1181|1186|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
          @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1187|1192|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1198|1204|System|class|java.lang.System
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1205|1208|out|field|java.lang.System|out
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1209|1216|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1222|1243|getItemEnchantability|method|net.minecraft.item.Item|getItemEnchantability|()I
       Method End: Chestplate()V
    Class End  : ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Chestplate
    Class Start: ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Leggings
-      @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1223|1231|Leggings|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Leggings
-      @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1240|1259|Item_BlackGoldArmor|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
+      @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1337|1345|Leggings|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Leggings
+      @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1354|1373|Item_BlackGoldArmor|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
       Method Start: Leggings()V
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1270|1278|Leggings|method|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Leggings|Leggings|()V
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1320|1339|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1340|1344|LEGS|field|net.minecraft.inventory.EntityEquipmentSlot|LEGS
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1355|1373|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1397|1411|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1412|1417|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1418|1423|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1384|1392|Leggings|method|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Leggings|Leggings|()V
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1434|1453|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1454|1458|LEGS|field|net.minecraft.inventory.EntityEquipmentSlot|LEGS
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1469|1487|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1511|1525|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1526|1531|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1532|1537|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
       Method End: Leggings()V
    Class End  : ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Leggings
    Class Start: ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Boots
-      @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1454|1459|Boots|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Boots
-      @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1468|1487|Item_BlackGoldArmor|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
+      @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1568|1573|Boots|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Boots
+      @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1582|1601|Item_BlackGoldArmor|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
       Method Start: Boots()V
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1498|1503|Boots|method|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Boots|Boots|()V
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1545|1564|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1565|1569|FEET|field|net.minecraft.inventory.EntityEquipmentSlot|FEET
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1580|1598|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1619|1633|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1634|1639|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
-         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1640|1645|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1612|1617|Boots|method|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Boots|Boots|()V
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1659|1678|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1679|1683|FEET|field|net.minecraft.inventory.EntityEquipmentSlot|FEET
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1694|1712|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1733|1747|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1748|1753|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
+         @|ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java|1754|1759|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
       Method End: Boots()V
    Class End  : ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Boots
 Class End  : ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor
 endProcessing "ddv12138\BlackGold\common\item\Armor\Item_BlackGoldArmor.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java" md5: 2180d271ec9415e90b2343d732ee3aa2
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java" md5: 7c519cf37b34927b005b8ddaf9789406
 Cache Hit!
 @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|8|38|ddv12138.BlackGold.common.item|package|ddv12138.BlackGold.common.item|(file)
 Class Start: ddv12138.BlackGold.common.item.Item_BlackGoldIngot
@@ -256,152 +264,188 @@ Class Start: ddv12138.BlackGold.common.item.Item_BlackGoldIngot
    @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|205|209|Item|class|net.minecraft.item.Item
    Method Start: Item_BlackGoldIngot()V
       @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|219|238|Item_BlackGoldIngot|method|ddv12138.BlackGold.common.item.Item_BlackGoldIngot|Item_BlackGoldIngot|()V
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|261|275|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|276|281|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|282|287|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|261|279|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|299|313|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|314|319|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java|320|325|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
    Method End: Item_BlackGoldIngot()V
 Class End  : ddv12138.BlackGold.common.item.Item_BlackGoldIngot
 endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldIngot.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java" md5: bdc79473112d407d4fa9edeb829968c3
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java" md5: 516cc7edb3fcfb4b5157a78646e45bda
 Cache Hit!
 @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|8|38|ddv12138.BlackGold.common.item|package|ddv12138.BlackGold.common.item|(file)
 Class Start: ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
-   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|268|289|Item_BlackGoldPickAxe|class|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
-   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|298|306|ItemTool|class|net.minecraft.item.ItemTool
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|385|406|Item_BlackGoldPickAxe|class|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|415|426|ItemPickaxe|class|net.minecraft.item.ItemPickaxe
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|449|466|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|449|466|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|467|476|BLACKGOLD|field|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe|BLACKGOLD|
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|479|489|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|490|505|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
    Method Start: Item_BlackGoldPickAxe()V
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|320|341|Item_BlackGoldPickAxe|method|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe|Item_BlackGoldPickAxe|()V
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|365|375|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|376|391|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|436|443|HashSet|class|java.util.HashSet
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|455|470|setHarvestLevel|method|net.minecraft.item.Item|setHarvestLevel|(Ljava/lang/String;I)V
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|492|507|setHarvestLevel|method|net.minecraft.item.Item|setHarvestLevel|(Ljava/lang/String;I)V
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|526|541|setHarvestLevel|method|net.minecraft.item.Item|setHarvestLevel|(Ljava/lang/String;I)V
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|564|576|setMaxDamage|method|net.minecraft.item.Item|setMaxDamage|(I)Lnet/minecraft/item/Item;
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|588|602|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|603|608|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
-      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|609|614|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|555|576|Item_BlackGoldPickAxe|method|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe|Item_BlackGoldPickAxe|()V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|660|669|BLACKGOLD|field|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe|BLACKGOLD
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|679|697|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|719|733|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|734|739|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java|740|745|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
    Method End: Item_BlackGoldPickAxe()V
 Class End  : ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
 endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldPickAxe.java"
 
-startProcessing "ddv12138\BlackGold\common\item\Itemloader.java" md5: aea526eb62891a4e8fa064a34db6a547
+startProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldSword.java" md5: 14a8f80594a3df967d411367b4ae13ec
+Cache Hit!
+@|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|8|38|ddv12138.BlackGold.common.item|package|ddv12138.BlackGold.common.item|(file)
+Class Start: ddv12138.BlackGold.common.item.Item_BlackGoldSword
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|186|205|Item_BlackGoldSword|class|ddv12138.BlackGold.common.item.Item_BlackGoldSword
+   @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|214|223|ItemSword|class|net.minecraft.item.ItemSword
+   Method Start: Item_BlackGoldSword()V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|237|256|Item_BlackGoldSword|method|ddv12138.BlackGold.common.item.Item_BlackGoldSword|Item_BlackGoldSword|()V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|269|279|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|280|295|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|344|362|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|382|396|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|397|402|bgtab|class|ddv12138.BlackGold.common.tab.bgtab
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|403|408|bgtab|field|ddv12138.BlackGold.common.tab.bgtab|bgtab
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|413|419|System|class|java.lang.System
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|420|423|out|field|java.lang.System|out
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|424|431|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|ddv12138\BlackGold\common\item\Item_BlackGoldSword.java|437|458|getItemEnchantability|method|net.minecraft.item.Item|getItemEnchantability|()I
+   Method End: Item_BlackGoldSword()V
+Class End  : ddv12138.BlackGold.common.item.Item_BlackGoldSword
+endProcessing "ddv12138\BlackGold\common\item\Item_BlackGoldSword.java"
+
+startProcessing "ddv12138\BlackGold\common\item\Itemloader.java" md5: f29946ae6ce117299701d3acf60524f5
 Cache Hit!
 @|ddv12138\BlackGold\common\item\Itemloader.java|8|38|ddv12138.BlackGold.common.item|package|ddv12138.BlackGold.common.item|(file)
 Class Start: ddv12138.BlackGold.common.item.Itemloader
-   @|ddv12138\BlackGold\common\item\Itemloader.java|623|633|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
-   @|ddv12138\BlackGold\common\item\Itemloader.java|651|655|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|651|655|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|656|667|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot|
-   @|ddv12138\BlackGold\common\item\Itemloader.java|674|693|Item_BlackGoldIngot|class|ddv12138.BlackGold.common.item.Item_BlackGoldIngot
-   @|ddv12138\BlackGold\common\item\Itemloader.java|696|714|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
-   @|ddv12138\BlackGold\common\item\Itemloader.java|742|746|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|742|746|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|747|760|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe|
-   @|ddv12138\BlackGold\common\item\Itemloader.java|767|788|Item_BlackGoldPickAxe|class|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
-   @|ddv12138\BlackGold\common\item\Itemloader.java|791|809|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
-   @|ddv12138\BlackGold\common\item\Itemloader.java|843|847|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|843|847|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|848|860|itemBGhelmet|field|ddv12138.BlackGold.common.item.Itemloader|itemBGhelmet|
-   @|ddv12138\BlackGold\common\item\Itemloader.java|867|893|Item_BlackGoldArmor.Helmet|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Helmet
-   @|ddv12138\BlackGold\common\item\Itemloader.java|912|916|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|912|916|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|917|933|itemBGChestplate|field|ddv12138.BlackGold.common.item.Itemloader|itemBGChestplate|
-   @|ddv12138\BlackGold\common\item\Itemloader.java|940|970|Item_BlackGoldArmor.Chestplate|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Chestplate
-   @|ddv12138\BlackGold\common\item\Itemloader.java|989|993|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|989|993|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|994|1008|itemBGLeggings|field|ddv12138.BlackGold.common.item.Itemloader|itemBGLeggings|
-   @|ddv12138\BlackGold\common\item\Itemloader.java|1015|1043|Item_BlackGoldArmor.Leggings|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Leggings
-   @|ddv12138\BlackGold\common\item\Itemloader.java|1062|1066|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|1062|1066|Item|class|net.minecraft.item.Item
-   @|ddv12138\BlackGold\common\item\Itemloader.java|1067|1078|itemBGBoots|field|ddv12138.BlackGold.common.item.Itemloader|itemBGBoots|
-   @|ddv12138\BlackGold\common\item\Itemloader.java|1085|1110|Item_BlackGoldArmor.Boots|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Boots
+   @|ddv12138\BlackGold\common\item\Itemloader.java|747|757|Itemloader|class|ddv12138.BlackGold.common.item.Itemloader
+   @|ddv12138\BlackGold\common\item\Itemloader.java|775|779|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|775|779|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|780|791|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|798|817|Item_BlackGoldIngot|class|ddv12138.BlackGold.common.item.Item_BlackGoldIngot
+   @|ddv12138\BlackGold\common\item\Itemloader.java|836|840|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|836|840|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|841|854|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|861|882|Item_BlackGoldPickAxe|class|ddv12138.BlackGold.common.item.Item_BlackGoldPickAxe
+   @|ddv12138\BlackGold\common\item\Itemloader.java|901|905|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|901|905|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|906|917|itemBGsword|field|ddv12138.BlackGold.common.item.Itemloader|itemBGsword|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|924|943|Item_BlackGoldSword|class|ddv12138.BlackGold.common.item.Item_BlackGoldSword
+   @|ddv12138\BlackGold\common\item\Itemloader.java|966|970|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|966|970|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|971|983|itemBGhelmet|field|ddv12138.BlackGold.common.item.Itemloader|itemBGhelmet|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|990|1016|Item_BlackGoldArmor.Helmet|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Helmet
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1035|1039|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1035|1039|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1040|1056|itemBGChestplate|field|ddv12138.BlackGold.common.item.Itemloader|itemBGChestplate|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1063|1093|Item_BlackGoldArmor.Chestplate|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Chestplate
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1112|1116|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1112|1116|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1117|1131|itemBGLeggings|field|ddv12138.BlackGold.common.item.Itemloader|itemBGLeggings|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1138|1166|Item_BlackGoldArmor.Leggings|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Leggings
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1185|1189|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1185|1189|Item|class|net.minecraft.item.Item
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1190|1201|itemBGBoots|field|ddv12138.BlackGold.common.item.Itemloader|itemBGBoots|
+   @|ddv12138\BlackGold\common\item\Itemloader.java|1208|1233|Item_BlackGoldArmor.Boots|class|ddv12138.BlackGold.common.item.Armor.Item_BlackGoldArmor.Boots
    Method Start: init()V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1138|1142|init|method|ddv12138.BlackGold.common.item.Itemloader|init|()V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1149|1164|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1165|1170|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1171|1179|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1180|1191|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1192|1207|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1223|1238|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1239|1244|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1245|1253|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1254|1267|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1268|1283|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1304|1319|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1320|1325|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1326|1334|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1335|1347|itemBGhelmet|field|ddv12138.BlackGold.common.item.Itemloader|itemBGhelmet
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1348|1363|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1380|1395|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1396|1401|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1402|1410|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1411|1427|itemBGChestplate|field|ddv12138.BlackGold.common.item.Itemloader|itemBGChestplate
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1428|1443|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1464|1479|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1480|1485|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1486|1494|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1495|1509|itemBGLeggings|field|ddv12138.BlackGold.common.item.Itemloader|itemBGLeggings
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1510|1525|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1544|1559|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1560|1565|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1566|1574|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1575|1586|itemBGBoots|field|ddv12138.BlackGold.common.item.Itemloader|itemBGBoots
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1587|1602|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1261|1265|init|method|ddv12138.BlackGold.common.item.Itemloader|init|()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1272|1287|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1288|1293|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1294|1302|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1303|1314|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1315|1330|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1346|1361|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1362|1367|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1368|1376|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1377|1390|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1391|1406|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1424|1439|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1440|1445|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1446|1454|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1455|1466|itemBGsword|field|ddv12138.BlackGold.common.item.Itemloader|itemBGsword
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1467|1482|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1501|1516|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1517|1522|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1523|1531|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1532|1544|itemBGhelmet|field|ddv12138.BlackGold.common.item.Itemloader|itemBGhelmet
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1545|1560|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1577|1592|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1593|1598|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1599|1607|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1608|1624|itemBGChestplate|field|ddv12138.BlackGold.common.item.Itemloader|itemBGChestplate
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1625|1640|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1661|1676|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1677|1682|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1683|1691|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1692|1706|itemBGLeggings|field|ddv12138.BlackGold.common.item.Itemloader|itemBGLeggings
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1707|1722|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1741|1756|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1757|1762|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1763|1771|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1772|1783|itemBGBoots|field|ddv12138.BlackGold.common.item.Itemloader|itemBGBoots
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1784|1799|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
    Method End: init()V
    Method Start: clientInit()V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1624|1632|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1633|1637|Side|class|net.minecraftforge.fml.relauncher.Side
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1638|1644|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1666|1676|clientInit|method|ddv12138.BlackGold.common.item.Itemloader|clientInit|()V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1683|1694|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1695|1725|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1726|1737|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1746|1767|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1768|1779|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1780|1795|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1816|1827|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1828|1858|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1859|1872|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1881|1902|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1903|1916|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1917|1932|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1956|1967|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1968|1998|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|1999|2011|itemBGhelmet|field|ddv12138.BlackGold.common.item.Itemloader|itemBGhelmet
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2020|2041|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2042|2054|itemBGhelmet|field|ddv12138.BlackGold.common.item.Itemloader|itemBGhelmet
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2055|2070|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2091|2102|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2103|2133|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2134|2150|itemBGChestplate|field|ddv12138.BlackGold.common.item.Itemloader|itemBGChestplate
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2159|2180|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2181|2197|itemBGChestplate|field|ddv12138.BlackGold.common.item.Itemloader|itemBGChestplate
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2198|2213|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2234|2245|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2246|2276|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2277|2291|itemBGLeggings|field|ddv12138.BlackGold.common.item.Itemloader|itemBGLeggings
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2300|2321|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2322|2336|itemBGLeggings|field|ddv12138.BlackGold.common.item.Itemloader|itemBGLeggings
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2337|2352|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2373|2384|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2385|2415|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2416|2427|itemBGBoots|field|ddv12138.BlackGold.common.item.Itemloader|itemBGBoots
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2436|2457|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2458|2469|itemBGBoots|field|ddv12138.BlackGold.common.item.Itemloader|itemBGBoots
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2470|2485|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1821|1829|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1830|1834|Side|class|net.minecraftforge.fml.relauncher.Side
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1835|1841|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1863|1873|clientInit|method|ddv12138.BlackGold.common.item.Itemloader|clientInit|()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1880|1891|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1892|1922|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1923|1934|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1943|1964|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1965|1976|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
+      @|ddv12138\BlackGold\common\item\Itemloader.java|1977|1992|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2013|2024|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2025|2055|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2056|2069|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2078|2099|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2100|2113|itemBGpickaxe|field|ddv12138.BlackGold.common.item.Itemloader|itemBGpickaxe
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2114|2129|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2150|2161|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2162|2192|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2193|2204|itemBGsword|field|ddv12138.BlackGold.common.item.Itemloader|itemBGsword
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2213|2234|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2235|2246|itemBGsword|field|ddv12138.BlackGold.common.item.Itemloader|itemBGsword
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2247|2262|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2286|2297|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2298|2328|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2329|2341|itemBGhelmet|field|ddv12138.BlackGold.common.item.Itemloader|itemBGhelmet
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2350|2371|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2372|2384|itemBGhelmet|field|ddv12138.BlackGold.common.item.Itemloader|itemBGhelmet
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2385|2400|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2421|2432|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2433|2463|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2464|2480|itemBGChestplate|field|ddv12138.BlackGold.common.item.Itemloader|itemBGChestplate
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2489|2510|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2511|2527|itemBGChestplate|field|ddv12138.BlackGold.common.item.Itemloader|itemBGChestplate
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2528|2543|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2564|2575|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2576|2606|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2607|2621|itemBGLeggings|field|ddv12138.BlackGold.common.item.Itemloader|itemBGLeggings
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2630|2651|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2652|2666|itemBGLeggings|field|ddv12138.BlackGold.common.item.Itemloader|itemBGLeggings
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2667|2682|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2703|2714|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2715|2745|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2746|2757|itemBGBoots|field|ddv12138.BlackGold.common.item.Itemloader|itemBGBoots
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2766|2787|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2788|2799|itemBGBoots|field|ddv12138.BlackGold.common.item.Itemloader|itemBGBoots
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2800|2815|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
    Method End: clientInit()V
    Method Start: addSmelting()V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2541|2552|addSmelting|method|ddv12138.BlackGold.common.item.Itemloader|addSmelting|()V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2559|2571|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2572|2583|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/block/Block;Lnet/minecraft/item/ItemStack;F)V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2584|2595|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2596|2603|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2609|2618|ItemStack|class|net.minecraft.item.ItemStack
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2619|2630|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2871|2882|addSmelting|method|ddv12138.BlackGold.common.item.Itemloader|addSmelting|()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2889|2901|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2902|2913|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/block/Block;Lnet/minecraft/item/ItemStack;F)V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2914|2925|BlockLoader|class|ddv12138.BlackGold.common.block.BlockLoader
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2926|2933|blockbg|field|ddv12138.BlackGold.common.block.BlockLoader|blockbg
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2939|2948|ItemStack|class|net.minecraft.item.ItemStack
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2949|2960|itemBGingot|field|ddv12138.BlackGold.common.item.Itemloader|itemBGingot
    Method End: addSmelting()V
    Method Start: addRecipe()V
-      @|ddv12138\BlackGold\common\item\Itemloader.java|2663|2672|addRecipe|method|ddv12138.BlackGold.common.item.Itemloader|addRecipe|()V
+      @|ddv12138\BlackGold\common\item\Itemloader.java|2993|3002|addRecipe|method|ddv12138.BlackGold.common.item.Itemloader|addRecipe|()V
    Method End: addRecipe()V
 Class End  : ddv12138.BlackGold.common.item.Itemloader
 endProcessing "ddv12138\BlackGold\common\item\Itemloader.java"
